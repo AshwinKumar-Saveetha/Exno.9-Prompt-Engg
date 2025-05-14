@@ -77,8 +77,8 @@ The experiment successfully demonstrated that structured prompting plays a cruci
 **Prompt 1 (Simple):**
      "A cat playing in a garden."
 ## Output:
-[ https://app.runwayml.com/creation/8a6f6c95-242a-42f3-aec7-47a9ca6251f0
-](https://github.com/AshwinKumar-Saveetha/Exno.9-Prompt-Engg/issues/1#issue-3061902877)
+
+https://github.com/user-attachments/assets/5ea92b4a-8bcb-43c8-8570-d4dd0501162a
 
 **Prompt 2 (Detailed):**
      "A golden retriever running through a field of yellow flowers under a clear blue sky."
