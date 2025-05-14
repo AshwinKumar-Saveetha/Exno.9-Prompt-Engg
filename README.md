@@ -1,6 +1,9 @@
 **Ex. No. 9: Exploration of Prompting Techniques for Video Generation**
+
 **Date:** 14/05/2025
+
 **Reg. No.:** 212223040021
+
 **Name:** Ashwin Kumar A
 
 ---
@@ -74,7 +77,8 @@ The experiment successfully demonstrated that structured prompting plays a cruci
 **Prompt 1 (Simple):**
      "A cat playing in a garden."
 ## Output:
- https://app.runwayml.com/creation/8a6f6c95-242a-42f3-aec7-47a9ca6251f0
+[ https://app.runwayml.com/creation/8a6f6c95-242a-42f3-aec7-47a9ca6251f0
+](https://github.com/AshwinKumar-Saveetha/Exno.9-Prompt-Engg/issues/1#issue-3061902877)
 
 **Prompt 2 (Detailed):**
      "A golden retriever running through a field of yellow flowers under a clear blue sky."
