@@ -84,9 +84,13 @@ https://github.com/user-attachments/assets/5ea92b4a-8bcb-43c8-8570-d4dd0501162a
 ```https://drive.google.com/file/d/1yqX3H3KkEE_zWeuAyCgQYJHP_tEh6v5D/view?usp=sharing```
 **Prompt 2 (Detailed):**
      "A golden retriever running through a field of yellow flowers under a clear blue sky."
+     
 ## Output:
 
----
+  https://github.com/user-attachments/assets/15292235-aa6e-4a61-86ce-2dd4f362dbd3
+  
+### Grive link: 
+```https://drive.google.com/file/d/1K3dFd4BbCHb1udkNYCKNwwbeWEYXyE1X/view?usp=sharing```
 
 ### **Result:**
 
