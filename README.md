@@ -80,6 +80,8 @@ The experiment successfully demonstrated that structured prompting plays a cruci
 
 https://github.com/user-attachments/assets/5ea92b4a-8bcb-43c8-8570-d4dd0501162a
 
+### Grive link: 
+```https://drive.google.com/file/d/1yqX3H3KkEE_zWeuAyCgQYJHP_tEh6v5D/view?usp=sharing```
 **Prompt 2 (Detailed):**
      "A golden retriever running through a field of yellow flowers under a clear blue sky."
 ## Output:
