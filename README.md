@@ -66,11 +66,6 @@ To explore and understand various prompting techniques used for generating and m
 
 ---
 
-### **Conclusion:**
-
-The experiment successfully demonstrated that structured prompting plays a crucial role in the quality and style of AI-generated videos. The simple prompt generated basic but accurate visuals, while the detailed prompt significantly enhanced realism, environment quality, and motion coherence. Tools like Imagen Video and Make-A-Video showed strong performance when aligned with their strengths.
-
----
 
 ### **Output:**
 
@@ -94,6 +89,12 @@ https://drive.google.com/file/d/1yqX3H3KkEE_zWeuAyCgQYJHP_tEh6v5D/view?usp=shari
 ### Grive link: 
 
 https://drive.google.com/file/d/1K3dFd4BbCHb1udkNYCKNwwbeWEYXyE1X/view?usp=sharing
+
+### **Conclusion:**
+
+The experiment successfully demonstrated that structured prompting plays a crucial role in the quality and style of AI-generated videos. The simple prompt generated basic but accurate visuals, while the detailed prompt significantly enhanced realism, environment quality, and motion coherence. Tools like Imagen Video and Make-A-Video showed strong performance when aligned with their strengths.
+
+---
 
 ### **Result:**
 
