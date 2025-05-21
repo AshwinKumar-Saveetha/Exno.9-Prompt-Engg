@@ -36,7 +36,7 @@ To explore and understand various prompting techniques used for generating and m
    A descriptive prompt with more context, action, and setting.
 
    * **Prompt 2 (Detailed):**
-     *"A golden retriever running through a field of yellow flowers under a clear blue sky."*
+     *"A fluffy cream-and-orange long-haired cat is playfully swatting at the streams of water coming from a rotating garden sprinkler on a bright sunny day. The cat stands on green, freshly mowed grass in a vibrant garden filled with blurred plants and colorful flowers in the background. Droplets of water glisten in the air as the cat raises one paw, mid-motion, with a curious and excited expression. The scene captures the joy and mischief of a summer afternoon."*
 
    This prompt was run in Imagen Video and Make-A-Video to assess how well the model handles detailed instructions and renders natural scenery with realistic motion.
 
@@ -80,15 +80,15 @@ https://github.com/user-attachments/assets/5ea92b4a-8bcb-43c8-8570-d4dd0501162a
 https://drive.google.com/file/d/1yqX3H3KkEE_zWeuAyCgQYJHP_tEh6v5D/view?usp=sharing
 
 **Prompt 2 (Detailed):**
-     "A golden retriever running through a field of yellow flowers under a clear blue sky."
+     "A fluffy cream-and-orange long-haired cat is playfully swatting at the streams of water coming from a rotating garden sprinkler on a bright sunny day. The cat stands on green, freshly mowed grass in a vibrant garden filled with blurred plants and colorful flowers in the background. Droplets of water glisten in the air as the cat raises one paw, mid-motion, with a curious and excited expression. The scene captures the joy and mischief of a summer afternoon."
      
 ## Output:
 
-  https://github.com/user-attachments/assets/15292235-aa6e-4a61-86ce-2dd4f362dbd3
+
   
 ### Grive link: 
 
-https://drive.google.com/file/d/1K3dFd4BbCHb1udkNYCKNwwbeWEYXyE1X/view?usp=sharing
+https://drive.google.com/file/d/1sa0nKpDN6m-HtNMSbnpb1QXvNIEbyo2D/view?usp=sharing
 
 ### **Conclusion:**
 
